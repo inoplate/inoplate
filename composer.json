@@ -1,12 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "inoplate/inoplate",
     "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "keywords": ["framework", "laravel", "inoplate", "boiler-plate"],
     "license": "MIT",
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.2.*",
+        "inoplate/foundation": "0.1.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
@@ -44,6 +45,7 @@
             "php artisan optimize"
         ]
     },
+    "minimum-stability": "dev",
     "config": {
         "preferred-install": "dist"
     }

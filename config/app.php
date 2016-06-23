@@ -158,7 +158,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        //Inoplate\Foundation\Providers\InoplateServiceProvider::class,
+        Inoplate\Auth\Providers\AuthServiceProvider::class,
+        Inoplate\Foundation\Providers\InoplateServiceProvider::class,
+        Inoplate\Account\Providers\AccountServiceProvider::class,
+        Inoplate\Media\Providers\MediaServiceProvider::class,
 
     ],
 
