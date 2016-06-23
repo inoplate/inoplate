@@ -1,6 +1,6 @@
 {
     "name": "inoplate/inoplate",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Framework boiler plate.",
     "keywords": ["framework", "laravel", "inoplate", "boiler-plate"],
     "license": "MIT",
     "type": "project",
