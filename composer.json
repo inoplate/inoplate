@@ -7,7 +7,10 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-        "inoplate/foundation": "0.1.*"
+        "inoplate/auth": "0.1.*",
+        "inoplate/foundation": "0.1.*",
+        "inoplate/account": "0.1.*",
+        "inoplate/media": "0.1.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
