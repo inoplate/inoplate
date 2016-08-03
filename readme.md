@@ -8,7 +8,7 @@ Coming soon...
 
 ## Contributing
 
-Thank you for considering contributing to the INOPlate boiler plate. Just create pull request and elaborate your purpose. We can discuss about the coding standart.
+Thank you for considering contributing to the INOPlate boiler plate. Just create pull request to  and elaborate your purpose. We can discuss about the coding standart and branching strategy.
 
 ## Security Vulnerabilities
 
