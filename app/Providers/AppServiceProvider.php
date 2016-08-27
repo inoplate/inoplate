@@ -13,7 +13,11 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        $this->app['navigation']->register(require __DIR__ .'/../../navigations/institute.php');
+        $this->app['navigation']->register(require __DIR__ .'/../../navigations/master.php');
+        $this->app['navigation']->register(require __DIR__ .'/../../navigations/student.php');
+        $this->app['navigation']->register(require __DIR__ .'/../../navigations/employee.php');
+        $this->app['navigation']->register(require __DIR__ .'/../../navigations/academic.php');
     }
 
     /**

@@ -10,7 +10,8 @@
         "inoplate/auth": "0.1.*",
         "inoplate/foundation": "0.1.*",
         "inoplate/account": "0.1.*",
-        "inoplate/media": "0.1.*"
+        "inoplate/media": "0.1.*",
+        "maatwebsite/excel": "^2.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
